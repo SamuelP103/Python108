@@ -2,7 +2,7 @@ print ("hello world")
 var = 10
 print (var)
 
-#loop
+#! loop
 numbers = [1,2,3,4,5]
 
 for number in numbers:
@@ -16,13 +16,13 @@ else:
     print("kid")
     
     
-    #var
+    #! var
     x = 1
     y = 2
     sum = x + y
     print (sum)
     
-    #def=define(a function)
+    #! def=define(a function)
 def great(name):
         return "hello"+name
     
